@@ -2,3 +2,4 @@ pyrogram
 tgcrypto
 dotenv
 g4f
+typing_extensions
