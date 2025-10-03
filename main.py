@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from dotenv import load_dotenv
 import os
-import funcs
+import funcs, ns
 
 load_dotenv()
 
