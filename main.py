@@ -8,7 +8,7 @@ load_dotenv()
 users = ["console", "ChatGPT"]
 
 app = Client(
-    name = "nstk",
+    name = "/etc/secrets/nstk.session",
     api_id = os.getenv("API_ID"),
     api_hash = os.getenv("API_HASH")
 )
